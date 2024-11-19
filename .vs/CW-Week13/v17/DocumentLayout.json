@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\shipperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\shipperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\configuration\\supplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\configuration\\supplierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\shippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\shippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|c:\\users\\shaha\\source\\repos\\cw-week13\\cw-week13\\cw-week13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B900A-85BF-4596-A080-3B55E78C6B3C}|CW-Week13\\CW-Week13.csproj|solutionrelative:cw-week13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CW-Week13\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:46:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShipperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\ShipperConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\ShipperConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\ShipperConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\ShipperConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:26:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:25:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\SupplierConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\SupplierConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\SupplierConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\SupplierConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:25:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:25:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\OrderDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\OrderDetailConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\OrderDetailConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\OrderDetailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:25:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\OrderConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:24:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:24:21.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "CW-Week13\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:23:52.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shippers.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Shippers.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Shippers.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Shippers.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Shippers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:13:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Categories.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:12:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Suppliers.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Suppliers.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Suppliers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:12:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Products.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:12:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\OrderDetails.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:11:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Orders.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:11:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Employees.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Employees.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:10:56.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Customers.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Entities\\Customers.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Entities\\Customers.cs",
+              "RelativeToolTip": "CW-Week13\\Entities\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:10:25.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Program.cs",
+              "RelativeDocumentMoniker": "CW-Week13\\Program.cs",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\CW-Week13\\CW-Week13\\CW-Week13\\Program.cs",
+              "RelativeToolTip": "CW-Week13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:09:38.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
